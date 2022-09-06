@@ -60,6 +60,6 @@ router.render = (req, res) => {
 
 app.use("/api", router);
 
-app.listen(3005, () => {
+app.listen(process.env.PORT || 3005, () => {
   console.log("JSON Server is running at http://localhost:3005");
 });
