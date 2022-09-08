@@ -21,6 +21,72 @@
       "gender": "male",
       "address": "Atlanta - US",
       "updatedAt": 1659968091712
+    },
+    {
+      "email": "ngoo@gmail",
+      "password": "$2a$10$bnroW8iZlWGM3XzVXQmAuujTB1vUfSafjqxhy8Y.EUXv329YYN5w2",
+      "id": 3
+    },
+    {
+      "email": "quangnguyen10893@gmail.com",
+      "password": "$2a$10$lG2WZ9ARWDpDOEvHh30kPuOYMkMo2EuSV1/vJ/aAIEa55eKQBbUj2",
+      "id": 4
+    }
+  ],
+  "likes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "songId": 0
+    },
+    {
+      "userId": 4,
+      "songId": 0,
+      "createdAt": 1662610937387,
+      "updatedAt": 1662610937387,
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "songId": 8,
+      "createdAt": 1662610938127,
+      "updatedAt": 1662610938127,
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "songId": 8,
+      "createdAt": 1662610938162,
+      "updatedAt": 1662610938162,
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "songId": 1,
+      "createdAt": 1662610939562,
+      "updatedAt": 1662610939562,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "songId": 0,
+      "createdAt": 1662610961855,
+      "updatedAt": 1662610961855,
+      "id": 6
+    },
+    {
+      "userId": 3,
+      "songId": 1,
+      "createdAt": 1662610962561,
+      "updatedAt": 1662610962561,
+      "id": 7
+    },
+    {
+      "userId": 3,
+      "songId": 2,
+      "createdAt": 1662610963194,
+      "updatedAt": 1662610963194,
+      "id": 8
     }
   ],
   "songs": [
@@ -697,7 +763,7 @@
       }
     },
     {
-      "name": "\u00c3\u2030chame La Culpa",
+      "name": "Ã‰chame La Culpa",
       "author": "Luis Fonsi, Demi Lovato",
       "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129660301279252/Luis_Fonsi__Demi_Lovato_-_Echame_La_Culpa_Video_OMP3_128K.mp3",
       "id": 42,
